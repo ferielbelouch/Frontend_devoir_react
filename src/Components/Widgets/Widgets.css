@@ -1,0 +1,8 @@
+.widget {
+  width: 100px;
+  height: 100px;
+  background-color: black !important;
+  border-radius: 20px;
+  color: aqua;
+  display: -moz-inline-grid;
+}
